@@ -1,6 +1,6 @@
-#include<stdio.h>
-#include<Windows.h>
-#include<conio.h>
+#include <stdio.h>
+#include <Windows.h>
+#include <conio.h>
 #define DINO_BOTTOM_Y 12
 #define TREE_BOTTOM_Y 20
 #define TREE_BOTTOM_X 45
