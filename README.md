@@ -90,8 +90,6 @@ int main(void)
             isBottom = false;
         }
  
-        //점프중 = y감소
-        //점프끝 = y증가
         if (isJumping)
         {
             dinoY -= gravity;
